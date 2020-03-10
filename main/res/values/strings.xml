@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Calculator</string>
+    <string name="app_name">My Second Calculator</string>
     <string name="_7" translatable="false">7</string>
     <string name="_8" translatable="false">8</string>
     <string name="_9" translatable="false">9</string>
@@ -16,5 +16,5 @@
     <string name="_0" translatable="false">0</string>
     <string name="dot" translatable="false">.</string>
     <string name="sub" translatable="false">-</string>
-    <string name="equals">=</string>
+    <string name="equals" translatable="false">=</string>
 </resources>
